@@ -339,15 +339,15 @@
       </ol>
       <div class="carousel-inner" role="listbox">
         <div class="item active">
-          <img src="images/logoURJC.jpg" class="img-responsive img-circle" alt="First slide">
+          <img src="images/logoURJC.jpg" alt="First slide">
           <div class="container">
             <div class="carousel-caption">
-
+              
             </div>
           </div>
         </div>
         <div class="item">
-          <img src="images/evacastro.jpg" class="img-responsive img-circle" alt="Second slide">
+          <img src="images/evacastro.jpg" alt="Second slide">
           <div class="container">
             <div class="carousel-caption">
          
@@ -355,7 +355,7 @@
           </div>
         </div>
         <div class="item">
-          <img src="images/gregoriorobles.jpg" class="img-responsive img-circle" alt="Third slide">
+          <img src="images/gregoriorobles.jpg" alt="Third slide">
           <div class="container">
             <div class="carousel-caption">
               
@@ -364,7 +364,7 @@
         </div>
         
         <div class="item">
-          <img src="images/evahu.jpg" class="img-responsive img-circle" alt="Fourth slide">
+          <img src="images/evahu.jpg" alt="Fourth slide">
           <div class="container">
             <div class="carousel-caption">
          
@@ -372,7 +372,7 @@
           </div>
         </div>
         <div class="item">
-          <img src="images/jesusgonzalez.jpg" class="img-responsive img-circle" alt="Fifth slide">
+          <img src="images/jesusgonzalez.jpg" alt="Fifth slide">
           <div class="container">
             <div class="carousel-caption">
          
@@ -380,7 +380,7 @@
           </div>
         </div>        
         <div class="item">
-          <img src="images/joseignacio.jpg"class="img-responsive img-circle" alt="Sixth slide">
+          <img src="images/joseignacio.jpg" alt="Sixth slide">
           <div class="container">
             <div class="carousel-caption">
          
@@ -388,7 +388,7 @@
           </div>
         </div>
         <div class="item">
-          <img src="images/mariluz.jpg" class="img-responsive img-circle" alt="Seventh slide">
+          <img src="images/mariluz.jpg" alt="Seventh slide">
           <div class="container">
             <div class="carousel-caption">
          
