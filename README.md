@@ -9,6 +9,8 @@ Utilizando componentes Bootstrap, realiza una página para el grupo de investiga
 
 Para realizar el ejercicio, debes crear un <i>fork</i> del repositorio del <a href="https://github.com/CursosWeb/X-NAV-Bootstrap-Concurso">ejercicio 5.4.7</a>, donde se incluyen ya algunos elemenos que te servirán de punto de partida (básicamete textos sobre el grupo de investigación y algunas imágenes). Puedes añadir tantos archivos CSS, Javascript e imágenes como desees, pero sólo puede haber una página web (index.html). Todos los elementos utilizados tienen que tener una licencia libre.
 
+<a href="http://asu88.github.io/X-Nav-Bootstrap-Concurso/">the app</a>
+
 ## Forma de entrega
 
 Has de tener un repositorio llamado X-Nav-Bootstrap-Concurso en tu cuenta en GitHub
